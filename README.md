@@ -235,5 +235,5 @@ The total length of this byte vector would be 43 bytes.
 
 
 #### Contributors
-Author: Anthony Gatti
-Last Updated: 10/30/2023
+* Author: Anthony Gatti
+* Last Updated: 10/30/2023
