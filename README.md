@@ -1,3 +1,6 @@
+## Project Description
+This project is an exercise in defining a protocol to serialize input into byte streams. It additionally has implemented functionality to take a byte stream and deserialize it back to its original form. The provided test cases automatically serialize and deserialize input, then compares the output to the original input.
+
 ### Pack109 Object Serialization Format
 
 Pack109 is a binary object serialization format that flattens a number of different datatypes into a format suitable for transmission over a channel.
